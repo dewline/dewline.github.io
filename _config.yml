@@ -24,7 +24,7 @@ github_username:  dewline
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-modernist
-show_downloads: true
+show_downloads: false
 plugins:
   - jekyll-feed
 

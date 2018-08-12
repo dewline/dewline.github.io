@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background: #252223;
+}
+
+.wrapper {
+  background: #eeeeee;
+}
+
+header {
+  background: #eeeeee;
+  border-bottom: 2px solid #252223;
+  h1 {
+    text-shadow: none;
+  }
+}
+
+a {
+  text-decoration: underline;
+}
+
